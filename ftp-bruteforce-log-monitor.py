@@ -14,7 +14,7 @@ import logging
 logging.getLogger("scapy.runtime").setLevel(logging.ERROR)
 
 
-NAME = "FTP Brute Force LOg Monitor"
+NAME = "FTP Brute Force Log Monitor"
 VERSION = "1.0"
 DATE = "02/06/2024"
 
